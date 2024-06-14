@@ -18,7 +18,7 @@
 <ol>
     <li>Clone the repository to your computer:</li>
 </ol>
-<pre><code>git clone https://github.com/your-username/your-repository.git</code></pre>
+<pre><code>git clone https://github.com/kirksahdo/fuel-consumption-neural-networks.git</code></pre>
 <ol start="2">
     <li>Open the <code>autompg.ipynb</code> file in a Jupyter Notebook environment.</li>
     <li>Execute the code cells in the notebook to perform data analysis and modeling.</li>
